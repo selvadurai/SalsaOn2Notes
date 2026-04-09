@@ -25,7 +25,11 @@ Leader Left ↔ Follower Right
 
 Fourth Position:
 --
-![fecf68300761f7058a678dbabbedada2.png](file:///home/kevin/.config/joplin-desktop/resources/746d8db6f30d4a47b7d869b85afc5dc5.png)
+Leader Left ↔ Follower Right
+Leader Right ↔ Follower Left
+
+<img width="610" height="649" alt="image" src="https://github.com/user-attachments/assets/361cc289-bda6-4442-8ad6-66245dc5819c" />
+
 
 Fifth Position:
 --
