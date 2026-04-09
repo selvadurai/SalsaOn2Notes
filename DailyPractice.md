@@ -20,9 +20,10 @@ Practice List:
 3. Left Turn Step
 4. Right Turn Partner leader and follower version (Pratice follower version with different hand varations)
 5. Left Turn Partner leader and follower version  (Pratice follower version with different hand varations )
-6. Open Break
-7. Reverse Break
-8. 365 Turn 
+6. Cross Body Lead
+7. Open Break
+8. Reverse Break
+9. 365 Turn 
 
 
    
