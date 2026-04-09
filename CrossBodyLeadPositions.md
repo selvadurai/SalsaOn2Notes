@@ -1,4 +1,6 @@
 Closed Position:
+
+
 <img width="617" height="727" alt="image" src="https://github.com/user-attachments/assets/af876401-3574-4983-9cba-ffa9a6386526" />
 
 Closed Position One Hand: 
