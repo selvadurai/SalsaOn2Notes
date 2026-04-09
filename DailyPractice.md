@@ -18,8 +18,8 @@ Practice List:
 1. 5 Hand positions
 2. Right Turn Step
 3. Left Turn Step
-4. Right Turn Partner leader and follower version
-5. Left Turn Partner leader and follower version
+4. Right Turn Partner leader and follower version (Pratice follower version with different hand varations)
+5. Left Turn Partner leader and follower version  (Pratice follower version with different hand varations )
 6. Open Break
 7. Reverse Break
 8. 365 Turn 
