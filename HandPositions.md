@@ -26,6 +26,8 @@ Leader Left ↔ Follower Right
 Fourth Position:
 --
 Leader Left ↔ Follower Right
+
+
 Leader Right ↔ Follower Left
 
 <img width="610" height="649" alt="image" src="https://github.com/user-attachments/assets/361cc289-bda6-4442-8ad6-66245dc5819c" />
