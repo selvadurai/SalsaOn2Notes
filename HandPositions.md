@@ -1,29 +1,34 @@
-**First Position: **
-
+First Position: 
+--
 Leader Left - follower right
 
-![8ffa4b483e58cbe4da49381b04daaf64.png](file:///home/kevin/.config/joplin-desktop/resources/7cc2effd4f344e1db85791134a988303.png)
+<img width="706" height="733" alt="image" src="https://github.com/user-attachments/assets/fd42780c-f7a1-4f88-8f7f-593b7fb4fc5e" />
 
-**Second Position:**
+
+Second Position:
+--
 
 Leader right and follower left
 
-![7890428c9ea7dac0b092904ab1b50a70.png](file:///home/kevin/.config/joplin-desktop/resources/df7311d5b0614cabb2a51371c3233deb.png)
+<img width="736" height="659" alt="image" src="https://github.com/user-attachments/assets/73bbbdc1-6b30-4510-a1f5-a76eea02e1bf" />
 
-**Third position:**
+
+Third position:
+--
 
 Leader right - Follower left
 
 Leader left and follower right
 
-![c97ef733854d5ff869e8132fd812ab11.png](file:///home/kevin/.config/joplin-desktop/resources/1dd75f67afb543668e17eda80860745f.png)
+<img width="855" height="742" alt="image" src="https://github.com/user-attachments/assets/09d40ac0-f750-43df-baa0-41875b8234da" />
 
-**Fourth Position: **
 
+Fourth Position:
+--
 ![fecf68300761f7058a678dbabbedada2.png](file:///home/kevin/.config/joplin-desktop/resources/746d8db6f30d4a47b7d869b85afc5dc5.png)
 
 Fifth Position:
-
+--
 Right Leader and Follower left:
 
-![5472048e29bd8646ec316f5e65ec5de2.png](file:///home/kevin/.config/joplin-desktop/resources/d94927a1f6f94eb9a998c43ed135f357.png)
+<img width="688" height="673" alt="image" src="https://github.com/user-attachments/assets/224122e4-5fb9-41ea-a470-252fabc9ffc6" />
