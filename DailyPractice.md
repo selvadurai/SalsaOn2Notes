@@ -21,10 +21,11 @@ Practice List:
 4. Right Turn Partner leader and follower version (Pratice follower version with different hand varations)
 5. Left Turn Partner leader and follower version  (Pratice follower version with different hand varations )
 6. Cross Body Lead
-7. Outside turn (1 position,2 position)
-8. Open Break
-9. Reverse Break
-10. 365 Turn 
+7. CBL Outside turn (1 position,2 position)
+8. CBL Inisde turn (1 position, 2 position, 3rd position)
+9. Open Break
+10. Reverse Break
+11. 365 Turn 
 
 
    
