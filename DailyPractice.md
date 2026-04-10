@@ -25,7 +25,11 @@ Practice List:
 8. CBL Inisde turn (1 position, 2 position, 3rd position)
 9. Open Break
 10. Reverse Break
-11. 365 Turn 
+11. 365 Turn
+12. Cat Walk
+13. Enchufa
+14. Shoulder check
+15. Reverse Cross body Leade
 
 
    
