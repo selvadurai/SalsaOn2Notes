@@ -29,7 +29,7 @@ Practice List:
 12. Cat Walk
 13. Enchufa
 14. Shoulder check
-15. Reverse Cross body Leade
+15. Reverse Cross body Lead
 
 
    
